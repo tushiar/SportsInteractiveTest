@@ -1,0 +1,27 @@
+.card-spacing{
+    
+    width: "18rem";
+    margin: "20rem";
+    background-color: rgba(189, 143, 143, 0.24);
+}
+.card-img{
+    padding: 8px;
+}
+
+.spaceRow{
+    padding: 8px;
+}
+.card:hover{
+    background: rgb(235, 162, 94);
+}
+.card{
+    background-color: rgba(209, 213, 238, 0.74);
+    box-shadow: 0 4px 8px 0 rgba(236, 24, 24, 0.616);
+    transition: 0.3s;
+   
+    border-radius: 5px;
+}
+.container-fluid{
+    background-color: rgb(186 52 38 / 86%);
+    
+}
